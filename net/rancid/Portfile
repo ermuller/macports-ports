@@ -5,7 +5,6 @@ PortGroup           perl5 1.0
 
 name                rancid
 version             3.9
-revision            2
 categories          net
 license             BSD-old
 maintainers         nomaintainer
